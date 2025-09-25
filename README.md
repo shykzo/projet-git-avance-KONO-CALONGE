@@ -1,1 +1,1 @@
-# projet-git-avance-KONO-CALONGE
+func Addition: Permet de calculer la somme de deux entiers.
