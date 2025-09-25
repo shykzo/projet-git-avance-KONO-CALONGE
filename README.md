@@ -1,0 +1,1 @@
+func Soustraction : permet de calculer la difference de deux entiers

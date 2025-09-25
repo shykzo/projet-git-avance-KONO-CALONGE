@@ -1,1 +1,5 @@
-package projet_git_avance_KONO_CALONGE
+package main
+
+func Soustractions(a int, b int) int {
+	return a - b
+}
